@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Sshahzaibkhan
-- 👀 I’m interested in Python programming and Data Science
-- 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on projects of python programming.
-Sshahzaibkhan/Sshahzaibkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As an economics graduate with a passion for data science, I am well-versed in the field of data analytics. My technical skills include proficiency in Python, SQL, Power BI, and Tableau, which allow me to work with large datasets and gain insights from them. I enjoy using advanced statistical and machine learning techniques to make sense of complex data, and I am always looking for new and innovative ways to extract value from information. In addition to my technical skills, I bring a strong analytical mindset and a keen attention to detail to every project I work on. With my background in economics and my expertise in data science, I am confident that I can make a valuable contribution to any organization looking to leverage data to drive business success.
