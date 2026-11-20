@@ -1,4 +1,4 @@
-![Profile header](./Dark green circuit terminal banner.png)
+![Profile header](./Sshahzaib.png)
 
 ## Hi, I’m Shahzaib Khan 👋
 
