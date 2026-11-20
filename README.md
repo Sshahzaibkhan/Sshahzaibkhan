@@ -1,2 +1,13 @@
-![Header](./Shahzaib.png)
-As an economics graduate with a passion for data science, I am well-versed in the field of data analytics. My technical skills include proficiency in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white), ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) which allow me to work with large datasets and gain insights from them. I enjoy using advanced statistical and machine learning techniques to make sense of complex data, and I am always looking for new and innovative ways to extract value from information. In addition to my technical skills, I bring a strong analytical mindset and a keen attention to detail to every project I work on. With my background in economics and my expertise in data science, I am confident that I can make a valuable contribution to any organization looking to leverage data to drive business success.
+![Profile header](./Shahzaib.png)
+
+## Hi, I’m Shahzaib Khan 👋
+
+I hold an MSc in International Project Management from York St John University and have a background in economics and training in data science. I’m interested in using data to understand business problems and support better decisions.
+
+I use Python, MySQL, and Power BI to clean and explore datasets, build visualisations, and communicate findings. My projects and training have included customer behaviour analysis, sentiment analysis, and predictive modelling.
+
+### Tools I use
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
